@@ -8,7 +8,7 @@ This repository brings together four projects focused on understanding how softw
 
 ## Projects
 
-### 1. [SimpleScheduler](YOUR_SIMPLE_SCHEDULER_REPO_URL)
+### 1. [SimpleScheduler](https://github.com/sulpboy/SimpleScheduler-Implementation)
 
 A process scheduling system that coordinates job execution using separate processes, pipes, and Unix signals.
 
@@ -19,7 +19,7 @@ A process scheduling system that coordinates job execution using separate proces
 
 **Technologies:** C, Unix system calls, signals, pipes
 
-### 2. [SimpleMultithreader](YOUR_SIMPLE_MULTITHREADER_REPO_URL)
+### 2. [SimpleMultithreader](https://github.com/sulpboy/SimpleMultithreader)
 
 A lightweight, header-only C++ library for parallelizing loop-based computations using POSIX threads and lambda functions.
 
@@ -30,7 +30,7 @@ A lightweight, header-only C++ library for parallelizing loop-based computations
 
 **Technologies:** C++, C++11, Pthreads
 
-### 3. [SimpleShell](YOUR_SIMPLE_SHELL_REPO_URL)
+### 3. [SimpleShell](https://github.com/sulpboy/SimpleShell)
 
 A Unix shell that executes external commands, supports multi-stage pipelines, and maintains command execution history.
 
@@ -41,7 +41,7 @@ A Unix shell that executes external commands, supports multi-stage pipelines, an
 
 **Technologies:** C, Unix system calls, process management, IPC
 
-### 4. [SmartELFLoader](YOUR_ELF_LOADER_REPO_URL)
+### 4. [SmartELFLoader](https://github.com/sulpboy/SmartELFLoader)
 
 A demand-paged loader for compatible 32-bit ELF executables that loads memory pages as they are accessed during execution.
 
