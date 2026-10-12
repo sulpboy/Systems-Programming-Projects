@@ -7,3 +7,6 @@
 [submodule "SmartELFLoader"]
 	path = SmartELFLoader
 	url = https://github.com/sulpboy/SmartELFLoader.git
+[submodule "SimpleScheduler"]
+	path = SimpleScheduler
+	url = https://github.com/sulpboy/SimpleScheduler-implementation.git
