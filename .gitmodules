@@ -1,0 +1,9 @@
+[submodule "SimpleShell"]
+	path = SimpleShell
+	url = https://github.com/sulpboy/SimpleShell.git
+[submodule "SimpleMultithreader"]
+	path = SimpleMultithreader
+	url = https://github.com/sulpboy/SimpleMultithreader.git
+[submodule "SmartELFLoader"]
+	path = SmartELFLoader
+	url = https://github.com/sulpboy/SmartELFLoader.git
