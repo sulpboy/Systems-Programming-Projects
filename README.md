@@ -17,7 +17,7 @@ A process scheduling system that coordinates job execution using separate proces
 - Process suspension and resumption using `SIGSTOP` and `SIGCONT`
 - Timer-driven scheduling and execution statistics
 
-**Technologies:** C, Unix system calls, signals, pipes
+**Tech:** C, Unix system calls, signals, pipes
 
 ### 2. [SimpleMultithreader](https://github.com/sulpboy/SimpleMultithreader)
 
@@ -28,7 +28,7 @@ A lightweight, header-only C++ library for parallelizing loop-based computations
 - Thread creation and synchronization using Pthreads
 - Execution-time measurement
 
-**Technologies:** C++, C++11, Pthreads
+**Tech:** C++, C++11, Pthreads
 
 ### 3. [SimpleShell](https://github.com/sulpboy/SimpleShell)
 
@@ -39,7 +39,7 @@ A Unix shell that executes external commands, supports multi-stage pipelines, an
 - Process synchronization using `waitpid()`
 - Command history and execution-time tracking
 
-**Technologies:** C, Unix system calls, process management, IPC
+**Tech:** C, Unix system calls, process management, IPC
 
 ### 4. [SmartELFLoader](https://github.com/sulpboy/SmartELFLoader)
 
@@ -51,7 +51,7 @@ A demand-paged loader for compatible 32-bit ELF executables that loads memory pa
 - Memory permissions using `mprotect()`
 - Page fault, allocation, and internal fragmentation statistics
 
-**Technologies:** C, ELF, virtual memory, signal handling
+**Tech:** C, ELF, virtual memory, signal handling
 
 ## Concepts Covered
 
